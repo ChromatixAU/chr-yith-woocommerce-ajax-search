@@ -3,18 +3,20 @@
 * Plugin Name: YITH WooCommerce Ajax Search
 * Plugin URI: http://yithemes.com/
 * Description: YITH WooCommerce Ajax Search allows your users to search products in real time.
-* Version: 1.4.0
+* Version: 1.4.0-chromatix-0.0.1
 * Author: YITHEMES
 * Author URI: http://yithemes.com/
 * Text Domain: yith-woocommerce-ajax-search
 * Domain Path: /languages/
+* License: GPLv3 or later
 */
 
 
 /*  Copyright 2013  Your Inspiration Themes  (email : plugins@yithemes.com)
+    Copyright 2017  Chromatix Digital Agency
 
     This program is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License, version 2, as
+    it under the terms of the GNU General Public License, version 3, as
     published by the Free Software Foundation.
 
     This program is distributed in the hope that it will be useful,

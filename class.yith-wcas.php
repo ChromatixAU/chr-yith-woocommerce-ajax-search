@@ -157,7 +157,7 @@ if ( !class_exists( 'YITH_WCAS' ) ) {
             }
 
 
-            $products = get_posts( $args );
+            $products = get_posts( apply_filters( 'chr_yith_wcas_product_search_args', $args ) ); // New filter added by CHROMATIX
 
             if ( !empty( $products ) ) {
                 foreach ( $products as $post ) {
