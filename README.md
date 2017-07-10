@@ -1,16 +1,24 @@
-# Chromatix YITH WooCommerce Ajax Search ===
+# Chromatix YITH WooCommerce Ajax Search
 
 A Fork of the YITH WooCommerce Ajax Search plugin
 
 -----
 
-Contributors: yithemes, David James ([ChromatixAU](https://chromatix.com.au))
+Contributors: yithemes, David James ([Chromatix](https://chromatix.com.au))
+
 Tags: woocommerce search by sku, woocommerce search results, woocommerce search shortcode, woocommerce search page, woocommerce search form, woocommerce search filter, woocommerce search products, woocommerce search content, woocommerce search autocomplete, woocommerce advanced search, woocommerce search category, woocommerce search product attributes, woocommerce search by tag, woocommerce search by brand, woocommerce predictive, woocommerce live search, woocommerce single product search, woocommerce site search, woocommerce search tex, tajax, search, woocommerce, products, themes, yit, e-commerce, shop, yith, ajax search, instant search, premium, yithemes, autocomplete, autosuggest, better search, category search, custom search, highlight terms, Live Search, Predictive Search, product search, relevant search, search highlight, search product, suggest, typeahead, WooCommerce Plugin, woocommerce product search, woocommerce search, wordpress ecommerce
+
 Requires at least: 3.5.1
+
 Tested up to: 4.5.1
-Stable tag: 1.4.0-chromatix-0.0.1
+
+Stable tag: 1.4.0-chromatix-0.0.2
+
 License: GPLv3 or later
+
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+-----
 
 YITH WooCommerce Ajax Search allows your users to search products in real time.
 
