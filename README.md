@@ -12,7 +12,7 @@ Requires at least: 3.5.1
 
 Tested up to: 4.5.1
 
-Stable tag: 1.4.0-chromatix-0.0.2
+Stable tag: 1.4.0-chromatix-0.0.3
 
 License: GPLv3 or later
 
@@ -150,6 +150,9 @@ If you have created your own language pack for YITH WooCommerce Ajax Search, or 
 2. YITH WooCommerce Ajax Search in operation displaying WooCommerce search results
 
 == Changelog ==
+
+= 1.4.0-chromatix-0.0.3 - Released Jul 10, 2017 =
+* Added hook to alter search result arguments, such as product categories and more
 
 = 1.4.0 - Released: Jun 10, 2016 =
 * Added: Support to WooCommerce 2.6 RC1

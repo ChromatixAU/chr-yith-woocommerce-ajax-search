@@ -1,12 +1,12 @@
 <?php
 /**
-* Plugin Name: YITH WooCommerce Ajax Search
-* Plugin URI: http://yithemes.com/
-* Description: YITH WooCommerce Ajax Search allows your users to search products in real time.
-* Version: 1.4.0-chromatix-0.0.2
-* Author: YITHEMES
-* Author URI: http://yithemes.com/
-* Text Domain: yith-woocommerce-ajax-search
+* Plugin Name: Chromatix YITH WooCommerce Ajax Search
+* Plugin URI: https://github.com/ChromatixAU/chr-yith-woocommerce-ajax-search
+* Description: [Chromatix Modified] YITH WooCommerce Ajax Search allows your users to search products in real time.
+* Version: 1.4.0-chromatix-0.0.3
+* Author: Chromatix
+* Author URI: http://chromatix.com.au/
+* Text Domain: chr-yith-woocommerce-ajax-search
 * Domain Path: /languages/
 * License: GPLv3 or later
 */
